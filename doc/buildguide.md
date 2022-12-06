@@ -159,6 +159,14 @@ coron47plusは中央に25mmトラックボールを搭載したロウスタッ�
   ![CustomKeycode_rev](/images/CustomKeycode.jpg)
 
 
+## Links
+
+  [【大注目！】トラックボール付き自作キーボード cocot36plus/coron47plus レビュー | Trackball Mechanical Keyboard Review](https://www.youtube.com/watch?v=GIpaJPnjrzo) (by Daihukuさん)  
+  トラックボールの使い心地、内部構造など紹介いただいています。
+
+  [Gallery on Twitter](https://twitter.com/search?q=%23cocot36plus&src=typed_query&f=image)
+
+
 ## 終わりに
 何かトラブルがあれば[Twitterアカウント](https://twitter.com/aki27kbd)までご連絡ください。
 
