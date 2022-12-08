@@ -121,8 +121,12 @@ coron47plusは中央に25mmトラックボールを搭載したロウスタッ�
 
 ### 25mmボールについて
 
+キットには直径約25.4mmのビリヤードボールが付属しています。このビリヤードボールはトラックボール用として製造されているものではないので、市販のものと比較するとトラッキング性能やスムーズさで劣ります。あくまで動作確認用としてお使いください。
+市販の25mm球を搭載したトラックボールのボールを取り出してcoron47plusにお使いいただくことをお勧めします。
 
+また、25.4mmのビリヤードボールと25mmのトラックボールの微妙な寸法差に対応するため、初期ロットは2種類のボールケースを付属しています。裏面に円形の切り欠きがあるものが25mmボール用、ないものが25.4mmビリヤードボール用となっています。25mmボール用ケースにビリヤードボールをはめようとするとケース破損の原因となりますので、十分にお気をつけください。
 
+![coron47plus_25mm_ballcase](/images/25mm_ballcase.jpg)
 
 
 ## ファームウェア
@@ -164,7 +168,7 @@ coron47plusは中央に25mmトラックボールを搭載したロウスタッ�
   [【大注目！】トラックボール付き自作キーボード cocot36plus/coron47plus レビュー | Trackball Mechanical Keyboard Review](https://www.youtube.com/watch?v=GIpaJPnjrzo) (by Daihukuさん)  
   トラックボールの使い心地、内部構造など紹介いただいています。
 
-  [Gallery on Twitter](https://twitter.com/search?q=%23cocot36plus&src=typed_query&f=image)
+  [Gallery on Twitter](https://twitter.com/search?q=%23coron47plus&src=typed_query&f=image)
 
 
 ## 終わりに
